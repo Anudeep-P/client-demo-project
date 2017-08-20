@@ -42,13 +42,6 @@
                      <url>http://18.220.230.161:8081/nexus/content/repositories/snapshots/</url>
 			<uniqueVersion>false</uniqueVersion>
         </snapshotRepository>
-		<servers>
-			<server>
-			<id> deplyment </id>
-				<username> admin </username>
-				<password> admin123 </password>
-			</server>
-		</servers>
     </distributionManagement>
 	<build>
 		<finalName>myweb</finalName>
